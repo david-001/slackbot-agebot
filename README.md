@@ -1,6 +1,6 @@
 # Build a Slackbot from Scratch
 
-This project is focused on creating a Slack workspace from scratch and integrating it with various programming languages like Golang, Java, and Python. The primary goal is to enable users to create their own slack workplace, collaborate with team members and write the business logic of calculating age when birth date is provided
+This project is focused on creating a Slack workspace from scratch and integrating it with Python. The primary goal is to enable users to create their own slack workplace, collaborate with team members and write the business logic of calculating age when birth date is provided
 
 ## Project Description
 
