@@ -6,8 +6,5 @@ This project is focused on creating a Slack workspace from scratch and integrati
 
 - Accepts date input in the format of "DD-MM-YYYY".
 - Calculates the user's age based on the current date.
-- Responds to the user with their age and any other relevant information.
+- Responds to the user with their age.
 - Uses the Slack API to communicate with the Slack platform.
-- Well-documented code that follows best practices for maintainability and scalability.
-- Easy to use, fast, and reliable.
-- Perfect for anyone who needs to quickly calculate their age without leaving the Slack workspace.
